@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <!-- Category name for album1 [CHAR LIMIT=40] -->
+    <string name="album1">Sgt. Pepper\'s...</string>
+    <!-- Category name for album2 [CHAR LIMIT=40] -->
+    <string name="album2">Dark side of the moon</string>
+    <!-- Category name for album3 [CHAR LIMIT=40] -->
+    <string name="album3">The Velvet Underground</string>
+    <!-- Category name for album4 [CHAR LIMIT=40] -->
+    <string name="album4">Abbey road</string>
+    <!-- Category name for album5 [CHAR LIMIT=40] -->
+    <string name="album5">London calling</string>
+    <!-- Category name for album6 [CHAR LIMIT=40] -->
+    <string name="album6">Sticky fingers</string>
+    <!-- Category name for album7 [CHAR LIMIT=40] -->
+    <string name="album7">Revolver</string>
+    <!-- Category name for album8 [CHAR LIMIT=40] -->
+    <string name="album8">Born to run</string>
+    <!-- Category name for album9 [CHAR LIMIT=40] -->
+    <string name="album9">Wish you were here</string>
+
+</resources>
