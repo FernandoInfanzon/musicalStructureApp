@@ -44,7 +44,6 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/album2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -56,6 +55,7 @@
                         android:src="@drawable/album2"/>
 
                     <TextView
+                        android:id="@+id/album2"
                         style="@style/AlbumsStyle"
                         android:text="@string/album2" />
 
@@ -69,7 +69,6 @@
                 android:orientation="horizontal">
 
                 <LinearLayout
-                    android:id="@+id/album3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
@@ -80,7 +79,7 @@
                         android:src="@drawable/album3" />
 
                     <TextView
-
+                        android:id="@+id/album3"
                         style="@style/AlbumsStyle"
                         android:text="@string/album3" />
 
@@ -88,7 +87,6 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/album4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -100,6 +98,7 @@
                         android:src="@drawable/album4"/>
 
                     <TextView
+                        android:id="@+id/album4"
                         style="@style/AlbumsStyle"
                         android:text="@string/album4" />
 
@@ -113,7 +112,6 @@
                 android:orientation="horizontal">
 
                 <LinearLayout
-                    android:id="@+id/album5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
@@ -124,6 +122,7 @@
                         android:src="@drawable/album5" />
 
                     <TextView
+                        android:id="@+id/album5"
                         style="@style/AlbumsStyle"
                         android:text="@string/album5"
 
@@ -133,7 +132,6 @@
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/album6"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -145,6 +143,7 @@
                         android:src="@drawable/album6"/>
 
                     <TextView
+                        android:id="@+id/album6"
                         style="@style/AlbumsStyle"
                         android:text="@string/album6" />
 
@@ -159,7 +158,6 @@
                 android:orientation="horizontal">
 
                 <LinearLayout
-                    android:id="@+id/album7"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight=".5"
@@ -170,14 +168,14 @@
                         android:src="@drawable/album7" />
 
                     <TextView
+                        android:id="@+id/album7"
                         style="@style/AlbumsStyle"
-                        android:text="@string/album1"/>
+                        android:text="@string/album7"/>
 
 
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/album8"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
@@ -189,6 +187,7 @@
                         android:src="@drawable/album8"/>
 
                     <TextView
+                        android:id="@+id/album8"
                         style="@style/AlbumsStyle"
                         android:text="@string/album8" />
 
@@ -204,7 +203,6 @@
                 >
 
                 <LinearLayout
-                    android:id="@+id/album9"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
@@ -216,6 +214,7 @@
                         android:src="@drawable/album9" />
 
                     <TextView
+                        android:id="@+id/album9"
                         style="@style/AlbumsStyle"
                         android:text="@string/album1"/>
 
