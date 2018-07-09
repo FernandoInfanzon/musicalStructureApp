@@ -23,7 +23,6 @@ public class Album8Activity extends AppCompatActivity {
         songs.add(new Song("Meeting Across the River","Bruce Springsteen"));
         songs.add(new Song("Jungleland","Bruce Springsteen"));
 
-
         SongAdapter adapter = new SongAdapter(this, songs);
 
         ListView listView =  findViewById(R.id.list);

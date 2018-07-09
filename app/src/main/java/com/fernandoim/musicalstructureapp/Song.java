@@ -16,13 +16,8 @@ public class Song {
 //        mImageResourceId = imageResourceId;
     }
 
-
     public String getArtist() {return mArtist;}
 
     public String getSong() { return mSong;}
-
-//    public int getImageResourceId() {
-//        return mImageResourceId;
-//    }
 
 }

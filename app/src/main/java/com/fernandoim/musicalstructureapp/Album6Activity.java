@@ -25,7 +25,6 @@ public class Album6Activity extends AppCompatActivity {
         songs.add(new Song("Dead Flowers","The Rolling Stones"));
         songs.add(new Song("Moonlight Mile","The Rolling Stones"));
 
-
         SongAdapter adapter = new SongAdapter(this, songs);
 
         ListView listView =  findViewById(R.id.list);

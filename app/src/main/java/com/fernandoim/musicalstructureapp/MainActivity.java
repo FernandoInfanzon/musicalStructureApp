@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
         TextView album9 = (TextView) findViewById(R.id.album9);
 
         // Set a clic listener on that View
-        album1.setOnClickListener(new OnClickListener() {
+        album9.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
                 String albumSelected = getResources().getString(R.string.album9);
@@ -143,10 +143,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(album9Intent);
             }
         });
-
-
-
-
 
     }
 

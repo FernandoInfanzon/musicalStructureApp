@@ -36,10 +36,6 @@
         android:src="@drawable/play_arrow"
         android:layout_gravity="center"/>
 
-
 </LinearLayout>
-
-
-
 
 </android.support.constraint.ConstraintLayout>

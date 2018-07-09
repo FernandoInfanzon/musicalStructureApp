@@ -36,10 +36,7 @@
                     <TextView
                         android:id="@+id/album1"
                         style="@style/AlbumsStyle"
-                        android:text="@string/album1"
-
-                        />
-
+                        android:text="@string/album1"/>
 
                 </LinearLayout>
 
@@ -83,7 +80,6 @@
                         style="@style/AlbumsStyle"
                         android:text="@string/album3" />
 
-
                 </LinearLayout>
 
                 <LinearLayout
@@ -124,10 +120,7 @@
                     <TextView
                         android:id="@+id/album5"
                         style="@style/AlbumsStyle"
-                        android:text="@string/album5"
-
-                        />
-
+                        android:text="@string/album5"/>
 
                 </LinearLayout>
 
@@ -146,7 +139,6 @@
                         android:id="@+id/album6"
                         style="@style/AlbumsStyle"
                         android:text="@string/album6" />
-
 
                 </LinearLayout>
 
@@ -172,7 +164,6 @@
                         style="@style/AlbumsStyle"
                         android:text="@string/album7"/>
 
-
                 </LinearLayout>
 
                 <LinearLayout
@@ -190,7 +181,6 @@
                         android:id="@+id/album8"
                         style="@style/AlbumsStyle"
                         android:text="@string/album8" />
-
 
                 </LinearLayout>
 
@@ -216,12 +206,9 @@
                     <TextView
                         android:id="@+id/album9"
                         style="@style/AlbumsStyle"
-                        android:text="@string/album1"/>
-
+                        android:text="@string/album9"/>
 
                 </LinearLayout>
-
-
 
             </LinearLayout>
 

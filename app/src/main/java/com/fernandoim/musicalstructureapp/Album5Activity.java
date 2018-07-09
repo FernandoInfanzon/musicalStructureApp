@@ -34,7 +34,6 @@ public class Album5Activity extends AppCompatActivity {
         songs.add(new Song("Revolution Rock","The Clash"));
         songs.add(new Song("Train in Vain","The Clash"));
 
-
         SongAdapter adapter = new SongAdapter(this, songs);
 
         ListView listView =  findViewById(R.id.list);

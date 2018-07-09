@@ -19,7 +19,6 @@ public class SongAdapter extends ArrayAdapter<Song> {
         super(context, 0, songs);
     }
 
-
       @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         // Check if an existing view is being reused, otherwise inflate the view
@@ -43,18 +42,10 @@ public class SongAdapter extends ArrayAdapter<Song> {
         //Get the Version Number from the current AndroidFlavor object and set this on the
         songTextView.setText(currentSong.getSong());
 
-        //Find the TextView in the list_item.xml with the ID version_number
-//        ImageView iconView =  listItemView.findViewById(R.id.image_text_view);
-//        //Get the Version Number from the current AndroidFlavor object and set this on the
-//        iconView.setImageResource(currentSong.getImageResourceId());
-
 
         //Return the whole list item layout (containing 2 TextViews) so that
         return listItemView;
 
     }
-
-
-
 
 }
